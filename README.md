@@ -93,7 +93,7 @@ Every section uses the **same 60-student exam score dataset** so you see how eac
 ### Option 3 — Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/descriptive-statistics-python.git
+git clone https://github.com/nachiket-1/descriptive-statistics-python.git
 cd descriptive-statistics-python
 pip install -r requirements.txt
 jupyter notebook statistics_descriptive_stats.ipynb
