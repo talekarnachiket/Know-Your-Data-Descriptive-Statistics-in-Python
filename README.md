@@ -96,7 +96,7 @@ Every section uses the **same 60-student exam score dataset** so you see how eac
 git clone https://github.com/nachiket-1/Know-Your-Data-Descriptive-Statistics-in-Python.git
 cd descriptive-statistics-python
 pip install -r requirements.txt
-jupyter notebook statistics_descriptive_stats.ipynb
+jupyter notebook know-your-data-descriptive-statistics-in-python.ipynb
 ```
 
 ---
