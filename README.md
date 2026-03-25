@@ -89,16 +89,6 @@ Every section uses the **same 60-student exam score dataset** so you see how eac
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. **File → Upload notebook**
 3. **Runtime → Run All**
-
-### Option 3 — Run Locally
-
-```bash
-git clone https://github.com/nachiket-1/Know-Your-Data-Descriptive-Statistics-in-Python.git
-cd descriptive-statistics-python
-pip install -r requirements.txt
-jupyter notebook know-your-data-descriptive-statistics-in-python.ipynb
-```
-
 ---
 
 ## 📋 Requirements
